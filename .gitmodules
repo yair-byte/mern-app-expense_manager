@@ -1,0 +1,6 @@
+[submodule "front-end/mern-app-expense-manager-frontend"]
+	path = front-end/mern-app-expense-manager-frontend
+	url = https://github.com/yair-byte/mern-app-expense-manager-frontend.git
+[submodule "back-end/mern-app-expense-manager-backend"]
+	path = back-end/mern-app-expense-manager-backend
+	url = https://github.com/yair-byte/mern-app-expense-manager-backend.git
